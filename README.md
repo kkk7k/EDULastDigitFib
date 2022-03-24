@@ -1,1 +1,1 @@
-LastDigitFib
+LastDigitFibonacci
